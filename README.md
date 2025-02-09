@@ -51,3 +51,6 @@ public class Character {
     }
 }
 ```
+
+UML Class Diagram:
+![alt text](<UML Strategy Pattern.png>)
