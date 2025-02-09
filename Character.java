@@ -1,6 +1,6 @@
 public class Character {
-    public AttackStrategy attackStrategy;
-    public DefenseStrategy defenseStrategy;
+    private AttackStrategy attackStrategy;
+    private DefenseStrategy defenseStrategy;
 
     public Character(AttackStrategy attackStrategy, DefenseStrategy defenseStrategy) {
         this.attackStrategy = attackStrategy;
